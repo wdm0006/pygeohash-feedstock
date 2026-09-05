@@ -1,0 +1,5 @@
+# Repo policy for obvious agents.
+# Auto-detected from GitHub repo settings on 2026-09-05.
+defaultBranch: main
+mergeMethod: merge        # GitHub allows merge/squash/rebase; merge-commit matches conda-forge bot convention
+requireHumanMerge: true   # setup PRs wait for a human merge click
